@@ -1,4 +1,4 @@
-A simple keylogger with the ability to exfiltrate keylogs from the client's device to the server's device using sockets.
+A simple keylogger with the ability to exfiltrate key logs from the client's device to the server's device using sockets.
 
 Server-side script
 
