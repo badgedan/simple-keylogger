@@ -1,7 +1,7 @@
 ***A simple keylogger with the ability to exfiltrate key logs from the client's device to the server's device using sockets.***
 _________
 
-***Server-side script**
+**Server-side script**
 
 - Creates a socket, then binds the host and port.
 - Listens for only one connection, as multi-threading is not applied.
