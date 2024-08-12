@@ -8,7 +8,7 @@ _________
 - Opens or creates a file and appends the exfiltrated keylogs to the file.
 
 
-***Client-side script***
+**Client-side script**
 
 - Creates a socket, then connects to the host IP address and port.
 - Uses a keyboard listener from the Pynput library.
